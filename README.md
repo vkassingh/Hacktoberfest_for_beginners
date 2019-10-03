@@ -8,3 +8,5 @@ Steps:
 3. Type in some text and commit the changes
 4. Open a pull request to fillerInk/Hacktoberfest_for_beginners
 5. Congrats you just created your first pull request!
+
+This time you need 4 PULL REQUESTS to complete the challenge!
